@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "api_version": 3,
+  "layout": {
+    "logo": "https://sh1zaaadev.github.io/tableau-icons/logo-poly.png",
+    "color": "#000000",
+    "show_title": "none"
+  }
+}
